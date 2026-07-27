@@ -1,3 +1,3 @@
 # repo1
-this is my first repo\n
+this is my first repo
 this line add as update
